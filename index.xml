@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FLLC-ICPR2020</title>
+    <link>https://FLLC-ICPR2020.github.io/</link>
+    <description>Recent content on FLLC-ICPR2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Mar 2020 01:37:44 +0800</lastBuildDate>
+    
+	<atom:link href="https://FLLC-ICPR2020.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Evaluation</title>
+      <link>https://FLLC-ICPR2020.github.io/evaluation/</link>
+      <pubDate>Sat, 14 Mar 2020 01:37:44 +0800</pubDate>
+      
+      <guid>https://FLLC-ICPR2020.github.io/evaluation/</guid>
+      <description>Detail Requirements:  The upper bound of computational complexity is 1G FLOPs. The upper bound of model size is 20MB. We provide the bounding boxes obtained by our detector for training/validation/test sets. However, participants have the choice of employing other face detectors. Except for the face detectors, any external datasets and models are not allowed. Any test augmentation is prohibited. The multi-model ensemble strategy is also not allowed. During the validation phase, participants need send the the landmark files (.</description>
+    </item>
+    
+    <item>
+      <title>Dataset</title>
+      <link>https://FLLC-ICPR2020.github.io/dataset/</link>
+      <pubDate>Sat, 14 Mar 2020 01:37:32 +0800</pubDate>
+      
+      <guid>https://FLLC-ICPR2020.github.io/dataset/</guid>
+      <description>Training data: The dataset is an incremental of JD-landmark[1], consisting of about 20,000 images with 106-point landmark annotation. The images and landmarks will be released on March 30, 2020.
+Validation data: It consists of 2,000 images, covering large variations of pose, expression and occlusion, are selected from open source web face dataset [2]. During the validation phase, the participants could send the predicted results of the validation images to FLLC_ICPR2020@163.com. We will return the results to the participants and update the leaderboard.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://FLLC-ICPR2020.github.io/home/</link>
+      <pubDate>Sat, 14 Mar 2020 00:10:08 +0800</pubDate>
+      
+      <guid>https://FLLC-ICPR2020.github.io/home/</guid>
+      <description>Latest News  The 2nd grand challenge of 106-point facial landmark localization will be held in conjunction with the International Conference on Pattern Recognition (ICPR) 2020, Milan, Italy.  Introduction Facial landmark localization is a very crucial step in numerous face related applications, such as face recognition, facial pose estimation, face image synthesis, etc. We hold the 2nd lightweight 106-point facial landmark localization competition in conjunction with ICPR 2020. The purpose is to make effort towards benchmarking lightweight facial landmark localization, which enable efficient system deployment.</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://FLLC-ICPR2020.github.io/post/home/</link>
+      <pubDate>Sat, 14 Mar 2020 00:10:08 +0800</pubDate>
+      
+      <guid>https://FLLC-ICPR2020.github.io/post/home/</guid>
+      <description>Intorduction </description>
+    </item>
+    
+    <item>
+      <title>Leaderboard</title>
+      <link>https://FLLC-ICPR2020.github.io/leaderboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://FLLC-ICPR2020.github.io/leaderboard/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
