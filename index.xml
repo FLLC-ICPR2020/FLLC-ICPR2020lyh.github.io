@@ -36,7 +36,8 @@
       
       <guid>https://FLLC-ICPR2020.github.io/dataset/</guid>
       <description>Training data: The dataset is an incremental of JD-landmark [1], consisting of about 20,000 images with 106-point landmark annotation. The images and landmarks will be released on March 30, 2020.
-Validation data: It consists of 2,000 images, covering large variations of pose, expression and occlusion, are selected from open source web face dataset [2]. During the validation phase, the participants could send the predicted results of the validation images to FLLC_ICPR2020@163.</description>
+Validation data: It consists of 2,000 images, covering large variations of pose, expression and occlusion, are selected from open source web face dataset [2]. The images will be released on April 7, 2020.
+Test data: It contains 2,000 web face images as well.</description>
     </item>
     
     <item>
